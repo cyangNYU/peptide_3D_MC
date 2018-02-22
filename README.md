@@ -8,3 +8,4 @@
     
     python generate_beta_turn.py --sequence AAA
   
+# require: pyrosetta
